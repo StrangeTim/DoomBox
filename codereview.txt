@@ -1,0 +1,36 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+The setting of api keys and rails s command was a little confusing.
+
+Is there good spec coverage?
+Good integration testing, all 5 specs pass, however no unit testing
+
+Do all specs pass?
+yes
+
+
+Is the application logic clear and easy to navigate?
+Yes.
+
+
+Can you make a test payment through Stripe?
+Stripe works.
+
+
+Is the site user-friendly?
+Mostly. The site displays properly on full screen, but breaks columns improperly when smaller.
+Pictures show as link by cursor when hovered on, but do not actually link.
+
+Are there opportunities for refactoring?
+Plenty of opportunities for using ajax, but not much for refactoring.
+
+
+What features stand out?
+Good color scheme and pictures.
+
+
+What features could be improved?
+Ajax could be implemented.  When navigating to products/new a user should not be able to add products.
+
+
+Do you have any additional constructive criticism or positive feedback to share?
+Addition of Twitter and Launchbox is great.
